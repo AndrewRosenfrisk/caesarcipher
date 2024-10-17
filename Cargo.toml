@@ -1,0 +1,7 @@
+[package]
+name = "caesarcipher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clipboard-ext = "0.2.0"
